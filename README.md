@@ -1,5 +1,7 @@
 # 🛣️ Road Damage Detection using YOLOv8
 
+-My Submission for Crackathon 2026 by IIT Bombay
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -200,12 +202,6 @@ for result in results:
         print(f"Detected: Class {cls}, Confidence: {conf:.3f}")
 ```
 
-## 📝 Competition Details
-
-- **Competition**: Crackathon - Road Damage Detection Challenge
-- **Evaluation**: Mean Average Precision (mAP@50:95)
-- **Submission**: predictions (zip) + code (GitHub) + technical report (PDF)
-- **Rules**: Only provided dataset allowed, pre-trained models permitted
 
 ## 🔮 Future Improvements
 
@@ -215,11 +211,6 @@ for result in results:
 4. **Attention Mechanisms**: Improve feature learning
 5. **Class Balancing**: Oversample minority classes
 
-## 🙏 Acknowledgments
-
-- [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics)
-- RDD2022 Dataset Creators
-- Competition Organizers
 
 ## 📄 License
 
