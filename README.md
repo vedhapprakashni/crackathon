@@ -200,28 +200,9 @@ for result in results:
         cls = int(box.cls[0])
         conf = float(box.conf[0])
         print(f"Detected: Class {cls}, Confidence: {conf:.3f}")
-```
-
-
-## 🔮 Future Improvements
-
-1. **Ensemble Methods**: Combine multiple models (WBF)
-2. **Test-Time Augmentation**: Multi-scale inference
-3. **Pseudo-Labeling**: Leverage unlabeled data
-4. **Attention Mechanisms**: Improve feature learning
-5. **Class Balancing**: Oversample minority classes
 
 
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) file for details
 
-## 📧 Contact
-
-For questions or collaboration:
-- GitHub Issues: [Open an issue](../../issues)
-- Email: [your.email@example.com]
-
----
-
-**Note**: This project is part of the Crackathon Competition submission. Training is optimized for the RDD2022 dataset and competition evaluation criteria.
