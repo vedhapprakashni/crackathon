@@ -113,24 +113,6 @@ Warmup: 5 epochs
 
 **Expected Total Improvement**: +25-40% mAP over baseline
 
-## 📂 Project Structure
-
-```
-road-damage-detection/
-├── train_model.py          # Main training script
-├── inference.py            # Inference script
-├── requirements.txt        # Python dependencies
-├── data.yaml              # Dataset configuration
-├── README.md              # This file
-├── LICENSE                # MIT License
-├── weights/               # Model weights
-│   └── best.pt           # Best trained model
-├── predictions/           # Test predictions
-│   └── *.txt             # YOLO format predictions
-└── results/              # Training outputs
-    ├── results.png
-    └── confusion_matrix.png
-```
 
 ## 🎲 Prediction Format
 
