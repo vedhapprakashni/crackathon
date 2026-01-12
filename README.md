@@ -10,12 +10,12 @@ Automated road damage detection and classification using YOLOv8. Identifies and 
 
 ## 📊 Results
 
-| Metric | Score | Target | Status |
-|--------|-------|--------|--------|
-| **mAP@50:95** | 0.2365 | >0.294 | 🔄 In Progress |
-| **mAP@50** | 0.5003 | >0.574 | 🔄 In Progress |
-| **Precision** | 0.5542 | >0.647 | 🔄 In Progress |
-| **Recall** | 0.4953 | >0.520 | ✅ On Track |
+| Metric | Score | Target | 
+|--------|-------|--------|
+| **mAP@50:95** | 0.2365 | >0.5 | 
+| **mAP@50** | 0.5003 | >0.574 | 
+| **Precision** | 0.5542 | >0.647 | 
+| **Recall** | 0.4953 | >0.520 | 
 
 ## 🎯 Problem Statement
 
