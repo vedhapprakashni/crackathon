@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 
 
-Automated road damage detection and classification using YOLOv8. Identifies and localizes five types of road damage: Longitudinal Cracks, Transverse Cracks, Alligator Cracks, Other Corruption, and Potholes.
+Automated road damage detection and classification using YOLOv8. Identifies and localizes five types of road damage: Longitudinal Cracks, Transverse Cracks, Alligator Cracks, Other Corruption, and Potholes
 
 ## 📊 Results
 
